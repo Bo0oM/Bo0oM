@@ -201,3 +201,6 @@ ZeroNights Web Village Organizer
 OWASP Moscow Meetup #9
 
 - [https://www.meetup.com/ru-RU/OWASP-Moscow/events/266925142/](https://www.meetup.com/ru-RU/OWASP-Moscow/events/266925142/ "https://www.meetup.com/ru-RU/OWASP-Moscow/events/266925142/")
+
+Wallarm Meetup 08.2020
+- [https://speakerdeck.com/bo0om/interpret-it] (https://speakerdeck.com/bo0om/interpret-it)
