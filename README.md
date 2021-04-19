@@ -207,3 +207,7 @@ Wallarm Meetup 08.2020
 
 Server-side request forgery via ftp account
 - [https://speakerdeck.com/bo0om/ftp2rce](https://speakerdeck.com/bo0om/ftp2rce)
+
+Funny vulnerabilities especially for Fool's Day
+
+- [https://speakerdeck.com/bo0om/your-back-is-white](https://speakerdeck.com/bo0om/your-back-is-white)
