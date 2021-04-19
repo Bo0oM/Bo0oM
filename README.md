@@ -204,3 +204,6 @@ OWASP Moscow Meetup #9
 
 Wallarm Meetup 08.2020
 - [https://speakerdeck.com/bo0om/interpret-it](https://speakerdeck.com/bo0om/interpret-it)
+
+Server-side request forgery via ftp account
+- [https://speakerdeck.com/bo0om/ftp2rce](https://speakerdeck.com/bo0om/ftp2rce)
