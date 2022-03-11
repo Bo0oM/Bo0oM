@@ -12,7 +12,11 @@ Telegram channel: [@webpwn](https://t.me/webpwn "@webpwn")
 
 Penetration testing for business [https://vulner.ru](https://vulner.ru "https://vulner.ru")
 
-Exploit & Hacktool Search Engine [https://sploitus.com](https://sploitus.com "https://sploitus.com")
+Exploit & hacktool search engine [https://sploitus.com](https://sploitus.com "https://sploitus.com")
+
+Antifraud for everyone [https://antibot.ru](https://antibot.ru "https://antibot.ru")
+
+Leak finder [https://passleak.com](https://passleak.com "https://passleak.com")
 
 ------------
 
