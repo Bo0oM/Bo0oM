@@ -219,3 +219,7 @@ Funny vulnerabilities especially for Fool's Day
 ZeroNights 2021 | 31337
 
 - [https://speakerdeck.com/bo0om/bo0om-zn2021](https://speakerdeck.com/bo0om/bo0om-zn2021)
+
+KHS | Defending against automatization
+
+- [https://speakerdeck.com/bo0om/khs-bo0om](https://speakerdeck.com/bo0om/khs-bo0om)
