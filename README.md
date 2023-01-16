@@ -226,4 +226,4 @@ KHS | Defending against automatization
 
 HighLoad++ | Protection against malicious automation
 
-- https://speakerdeck.com/bo0om/zashchita-ot-vriedonosnoi-avtomatizatsii-sieghodnia(https://speakerdeck.com/bo0om/zashchita-ot-vriedonosnoi-avtomatizatsii-sieghodnia)
+- [https://speakerdeck.com/bo0om/zashchita-ot-vriedonosnoi-avtomatizatsii-sieghodnia](https://speakerdeck.com/bo0om/zashchita-ot-vriedonosnoi-avtomatizatsii-sieghodnia)
