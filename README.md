@@ -223,3 +223,7 @@ ZeroNights 2021 | 31337
 KHS | Defending against automatization
 
 - [https://speakerdeck.com/bo0om/khs-bo0om](https://speakerdeck.com/bo0om/khs-bo0om)
+
+HighLoad++ | Protection against malicious automation
+
+- https://speakerdeck.com/bo0om/zashchita-ot-vriedonosnoi-avtomatizatsii-sieghodnia(https://speakerdeck.com/bo0om/zashchita-ot-vriedonosnoi-avtomatizatsii-sieghodnia)
